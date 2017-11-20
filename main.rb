@@ -1,3 +1,3 @@
 def main
-  puts "Goodbye"
+  puts "Goodbye!"
 end
