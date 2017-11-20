@@ -1,1 +1,0 @@
-z dowolną zawartością
